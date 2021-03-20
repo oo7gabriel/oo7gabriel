@@ -9,7 +9,7 @@
 -  💬<p>TEXT EDITOR: <img alt="Visual Studio Code"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" /></p>
 - Knowledges:<br><img align="left" alt="HTML5"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> <img align="left" alt="HTML5"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img align="left" alt="HTML5"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><br><hr>
 
-![oo7gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oo7gabriel&show_icons=true&theme=tokyonight)
+![oo7gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oo7gabriel&show_icons=true)
 
 <!--
 **oo7gabriel/oo7gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
