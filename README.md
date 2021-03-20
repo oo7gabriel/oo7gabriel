@@ -11,8 +11,6 @@
 
 ![oo7gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oo7gabriel&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oo7gabriel&show_icons=true&theme=tokyonight)](https://github.com/oo7gabriel/github-readme-stats)
-
 <!--
 **oo7gabriel/oo7gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
